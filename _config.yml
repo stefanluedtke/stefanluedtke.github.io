@@ -1,4 +1,4 @@
-	name: Stefan
-	markdown: kramdown
+name: Stefan
+markdown: kramdown
 
 theme: jekyll-theme-tactile
