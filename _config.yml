@@ -1,2 +1,4 @@
 	name: Stefan
 	markdown: kramdown
+
+theme: jekyll-theme-tactile
