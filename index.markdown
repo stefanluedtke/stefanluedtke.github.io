@@ -9,7 +9,7 @@ permalink:
    <h1 id="about">about </h1>
    <img src="docs/stefan.jpg" width="35%" style=" float:left; margin-right: 10px; margin-bottom: 0px">
       <p>
-         I am currently a PhD student under the supervion of  Thomas Kirste in the <a href="https://www.mmis.informatik.uni-rostock.de/" target="_blank">Mobile Multimedia Information Systems Group</a> at the University of Rostock.
+         I am currently a PhD student under the supervion of Thomas Kirste in the <a href="https://www.mmis.informatik.uni-rostock.de/" target="_blank">Mobile Multimedia Information Systems Group</a> at the University of Rostock.
       </p>
       <p>
          In my research I focus on efficient Bayesian filtering algorithms for systems consisting of multiple, interacting entities. Such systems can be described conveniently by Multiset Rewriting Systems (MRS), which are ubiquitously used in the Modeling and Simulation community. However, probabilistic inference in such systems is hard, due to the large number of discrete system states. I try to figure out how to use, combine and extend recent advances in <em>Lifted Probabilistic Inference</em> and sampling-based inference to alleviate this hardness. 
@@ -90,6 +90,22 @@ permalink:
       <li>
           Max Schröder, <strong>Stefan Lüdtke</strong>, Sebastian Bader, Frank Krüger, Thomas Kirste. LiMa: Sequential Lifted Marginal Filtering on Multiset State Descriptions. <strong>KI</strong>: Advances in Artificial Intelligence 2017.
          [<a href="docs/ki-17.pdf" target="_blank">pdf</a>]
+      </li>
+   </ul>
+</div>
+
+<div style= "clear: both">
+<hr>
+   <h1 id="activities">activities</h1>
+   <ul>
+       <li>
+          Organizer of the 6th International Workshop on Sensor-Based Activity Recognition and Interaction (<strong>iWOAR</strong>), 2019
+      </li>
+      <li>
+          Guest Editor of <strong>Sensors</strong> Special Issue "Sensor-Based Activity Recognition and Interaction", 2020
+      </li>
+        <li>
+          Reviews: Computers in Biology and Medicine, Artificial Intelligence in Medicine, MDPI Entropy, Winter Simulation Conference 2018, iWOAR (2017, 2018, 2019, 2020)
       </li>
    </ul>
 </div>
