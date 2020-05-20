@@ -38,6 +38,9 @@ permalink:
 <hr>
    <h1 id="more publications">more publications</h1>
    <ul>
+       <li>
+          <strong>Stefan Lüdtke</strong>, Chimezie Amaefule, Thomas Kirste, Stefan Teipel. Measuring Motion Behavior to Detect Spatial Disorientation in a VR Environment. In The 13th PErvasive Technologies Related to Assistive Environments Conference (PETRA '20), (<strong>PETRA</strong>) 2020.
+      </li>
    	   <li>
           <strong>Stefan Lüdtke</strong>, Kristina Yordanova, Thomas Kirste. Human Activity and Context Recognition using Lifted Marginal Filtering. Proceedings of the 15th Workshop on Context Modeling and Recognition (<strong>CoMoRea</strong>) 2019.
          [<a href="docs/comorea-19.pdf" target="_blank">pdf</a>]
