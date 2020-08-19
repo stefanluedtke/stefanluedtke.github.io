@@ -21,7 +21,7 @@ permalink:
    <h1 id="key publications">key publications</h1>
    <ul>
    	   <li>
-          <strong>Stefan Lüdtke</strong>, Marcel Gehrke, Tanya Braun, Ralf Möller, Thomas Kirste. Lifted Marginal Filtering for Asymmetric Models by Clustering-based Merging. Proceedings of the 24th European Conference on Artificial Intelligence (<strong>ECAI</strong>) 2020.
+          <strong>Stefan Lüdtke</strong>, Marcel Gehrke, Tanya Braun, Ralf Möller, Thomas Kirste. Lifted Marginal Filtering for Asymmetric Models by Clustering-based Merging. Proceedings of the 24th European Conference on Artificial Intelligence (<strong>ECAI</strong>) 2020. [<a href="docs/ecai-20.pdf" target="_blank">pdf</a>]
       </li>
    	  <li>
           <strong>Stefan Lüdtke</strong>, Max Schröder, Sebastian Bader, Kristian Kersting, Thomas Kirste. Lifted Filtering via Exchangeable Decomposition. Proceedings of the 27th International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>) 2018.
