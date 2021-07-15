@@ -13,7 +13,7 @@ permalink:
       </p>
       <p>
          My research lies at the intersection of data-driven and knowledge-based (logic, planning) artificial intelligence methods. My goal is to understand how high-level prior knowledge can be combined with insights from data, allowing machines to reason about the world, even when training data is scarce. More specifically, I have been working on computational state-space models (symbolic specifications of dynamic systems), lifted probabilistic inference algorithms for such systems, and the combination of symbolic domain models and neural networks.
-         An important application domain of those methods is human activity recognition. In that regard, I have been involved in applied and interdisciplinary research projects concerned with the sensor-based assessment andassistance for people with cognitive impairment (e.g. dementia) and their caregivers.
+         An important application domain of those methods is human activity recognition. In that regard, I have been involved in applied and interdisciplinary research projects concerned with the sensor-based assessment and assistance for people with cognitive impairment (e.g. dementia) and their caregivers.
       </p>
 </div>
 
@@ -62,7 +62,7 @@ permalink:
          [<a href=" https://doi.org/10.1613/jair.1.12066 ">web</a>]
       </li>
        <li>
-           Chimezie Amaefule, <strong>Stefan Lüdtke</strong>, Thomas Kirste, Stefan Teipel. Effect of Spatial Disorientation in a Virtual Environment on Gait and Vital Features in Patients with Dementia: Pilot Single-Blind Randomized Control Trial (<strong>JMIR Serious Games</strong>) 2020.
+           Chimezie Amaefule, <strong>Stefan Lüdtke</strong>, Thomas Kirste, Stefan Teipel. Effect of Spatial Disorientation in a Virtual Environment on Gait and Vital Features in Patients with Dementia: Pilot Single-Blind Randomized Control Trial. <strong>JMIR Serious Games</strong> 2020.
            [<a href="https://doi.org/10.2196/18455">web</a>]
       </li>
       <li>
