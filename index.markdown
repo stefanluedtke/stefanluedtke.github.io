@@ -9,10 +9,11 @@ permalink:
    <h1 id="about">about </h1>
    <img src="docs/stefan.jpg" width="35%" style=" float:left; margin-right: 10px; margin-bottom: 0px">
       <p>
-         I am currently a PhD student under the supervion of Thomas Kirste in the <a href="https://www.mmis.informatik.uni-rostock.de/" target="_blank">Mobile Multimedia Information Systems Group</a> at the University of Rostock.
+        I am currently a postdoctoral researcher at the <a href="https://www.institute-for-enterprise-systems.de/"> Institute for Enterprise Systems </a>, University of Mannheim, in the research groups of <a href="https://www.uni-mannheim.de/dws/research/focus-groups/artificial-intelligence-prof-stuckenschmidt/"> Heiner Stuckenschmidt </a> and <a href="https://www.institute-for-enterprise-systems.de/index.php?id=49"> Christian Bartelt </a>.  
       </p>
       <p>
-         In my research I focus on efficient Bayesian filtering algorithms for systems consisting of multiple, interacting entities. Such systems can be described conveniently by Multiset Rewriting Systems (MRS), which are ubiquitously used in the Modeling and Simulation community. However, probabilistic inference in such systems is hard, due to the large number of discrete system states. I try to figure out how to use, combine and extend recent advances in <em>Lifted Probabilistic Inference</em> and sampling-based inference to alleviate this hardness. 
+         My research lies at the intersection of data-driven and knowledge-based (logic, planning) artificial intelligence methods. My goal is to understand how high-level prior knowledge can be combined with insights from data, allowing machines to reason about the world, even when training data is scarce. More specifically, I have been working on computational state-space models (symbolic specifications of dynamic systems), lifted probabilistic inference algorithms for such systems, and the combination of symbolic domain models and neural networks.
+         An important application domain of those methods is human activity recognition. In that regard, I have been involved in applied and interdisciplinary research projects concerned with the sensor-based assessment andassistance for people with cognitive impairment (e.g. dementia) and their caregivers.
       </p>
 </div>
 
@@ -38,7 +39,33 @@ permalink:
 <hr>
    <h1 id="more publications">more publications</h1>
    <ul>
+     <li>
+      <strong>Stefan Lüdtke</strong>. Lifted Bayesian Filtering in Multi-Entity Systems. PhD thesis. 2021.
+      [<a href="https://doi.org/10.18453/rosdok_id00003022">web</a>]
+      </li>
+    <li>
+        Iris Hochgraeber, Christiane Pinkert, Sumaiya Suravee, <strong>Stefan Lüdtke</strong>, Margareta Halek, Bernhard Holle. Wissenschaftsbasierte Ontologieentwicklung als Grundlage für KI-basierte Beratung von pflegenden Angehörigen. Einblicke in das Projekt eDEM-CONNECT. 20. deutscher Kongress für Versorgungsforschung 2021.
+      </li>
+    <li>
+        <strong>Stefan Lüdtke</strong>, Wiebke Hermann, Thomas Kirste, Heike Benes, Stefan Teipel. An Algorithm for Actigraphy-based Sleep/Wake Scoring: Comparison with Polysomnography. (<strong>Clinical Neurophysiology</strong>) 2020.
+        [<a href="https://doi.org/10.1016/j.clinph.2020.10.019">web</a>]
+      </li>
+     <li>
+        Anne Klostermann, Chimezie Amaefule, <strong>Stefan Lüdtke</strong>, Thomas Kirste, Stefan Teipel. Physiological and Gait Pattern Effects of Induced Disorientation in a 3D Virtual Environment. Alzheimer's Association International Conference (<strong>AAIC</strong>) 2020.
+      </li>
+    <li>
+        Charlotte Hinz, Chimezie Amaefule, <strong>Stefan Lüdtke</strong>, Thomas Kirste, Stefan Teipel. Assessing accelerometric, gait and physiological parameters of induced spatial orientation in people with MCI or mild dementia and older healthy cohorts. Alzheimer's Association International Conference (<strong>AAIC</strong>) 2020.
+         [<a href="https://doi.org/10.1002/alz.039910">web</a>]
+      </li>
+      <li>
+        <strong>Stefan Lüdtke</strong>, Thomas Kirste. Lifted Bayesian Filtering in Multiset Rewriting Systems. Journal of Artificial Intelligence Research (<strong>JAIR</strong>) 2020.
+         [<a href=" https://doi.org/10.1613/jair.1.12066 ">web</a>]
+      </li>
        <li>
+           Chimezie Amaefule, <strong>Stefan Lüdtke</strong>, Thomas Kirste, Stefan Teipel. Effect of Spatial Disorientation in a Virtual Environment on Gait and Vital Features in Patients with Dementia: Pilot Single-Blind Randomized Control Trial (<strong>JMIR Serious Games</strong>) 2020.
+           [<a href="https://doi.org/10.2196/18455">web</a>]
+      </li>
+      <li>
           <strong>Stefan Lüdtke</strong>, Chimezie Amaefule, Thomas Kirste, Stefan Teipel. Measuring Motion Behavior to Detect Spatial Disorientation in a VR Environment. In The 13th PErvasive Technologies Related to Assistive Environments Conference (<strong>PETRA</strong>) 2020.
       </li>
    	   <li>
