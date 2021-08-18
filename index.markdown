@@ -39,6 +39,10 @@ permalink:
 <hr>
    <h1 id="more publications">more publications</h1>
    <ul>
+    <li>
+        <strong>Stefan Lüdtke</strong>, Fernando Moya Rueda, Waqas Ahmed, Gernot A. Fink, Thomas Kirste. Human Activity Recognition using Attribute-Based Neural Networks and Context Information. 3rd International Workshop on Deep Learning for Human Activity Recognition 2021.
+        [<a href="docs/dl4har-21.pdf" target="_blank">pdf</a>]
+      </li>
      <li>
       <strong>Stefan Lüdtke</strong>. Lifted Bayesian Filtering in Multi-Entity Systems. PhD thesis. 2021.
       [<a href="https://doi.org/10.18453/rosdok_id00003022">web</a>]
