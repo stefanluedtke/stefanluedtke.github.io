@@ -12,7 +12,7 @@ permalink:
         I am currently a postdoctoral researcher at the <a href="https://www.institute-for-enterprise-systems.de/"> Institute for Enterprise Systems </a>, University of Mannheim, in the research groups of <a href="https://www.uni-mannheim.de/dws/research/focus-groups/artificial-intelligence-prof-stuckenschmidt/"> Heiner Stuckenschmidt </a> and <a href="https://www.institute-for-enterprise-systems.de/index.php?id=49"> Christian Bartelt </a>.  
       </p>
       <p>
-         My research lies at the intersection of data-driven and knowledge-based (logic, planning) artificial intelligence methods. My goal is to understand how high-level prior knowledge can be combined with insights from data, allowing machines to reason about the world, even when training data is scarce.
+         I perform research at the intersection of data-driven and knowledge-based (logic, planning) artificial intelligence methods. My goal is to understand how high-level prior knowledge can be utilized in machine learning, allowing machines to reason about the world, even when training data is scarce.
 
          More specifically, I have been working on computational state-space models (symbolic specifications of dynamic systems), lifted probabilistic inference algorithms for such systems, and the combination of symbolic domain models and neural networks.
          An important application domain of those methods is human activity recognition. In that regard, I have been involved in applied and interdisciplinary research projects concerned with the sensor-based assessment and assistance for people with cognitive impairment (e.g. dementia) and their caregivers.
