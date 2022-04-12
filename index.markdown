@@ -41,6 +41,22 @@ permalink:
 <hr>
    <h1 id="more publications">more publications</h1>
    <ul>
+       <li>
+        Sascha Marton, <strong>Stefan Lüdtke</strong>, Christian Bartelt. Explanations for neural networks by neural networks.  <strong>Applied Sciences</strong> 2022.
+        [<a href="https://doi.org/10.3390/app12030980" target="_blank">web</a>]
+      </li>
+        <li>
+        Friedrich Niemann, <strong>Stefan Lüdtke</strong>, Christian Bartelt, Michael ten Hompel. Context-aware human activity recognition in industrial processes.  <strong>Sensors</strong> 2022.
+        [<a href="https://doi.org/10.3390/s22010134" target="_blank">web</a>]
+      </li>
+      <li>
+        Timon Felske, <strong>Stefan Lüdtke</strong>, Sebastian Bader, Thomas Kirste. Activity Recognition in Assembly Tasks by Bayesian Filtering in Multi-Hypergraphs. 2nd Workshop on Graphs and More Complex Structures for Learning and Reasoning 2022.
+        [<a href="https://arxiv.org/abs/2202.00332" target="_blank">web</a>]
+      </li>
+      <li>
+       Chimezie Amaefule, <strong>Stefan Lüdtke</strong>, Thomas Kirste, Stefan Teipel. Gait changes among older adults during a virtual wayfinding task: The role of spatial disorientation and heart rate variability. <strong>Alzheimer's & Dementia </strong>strong> 2022.
+        [<a href="https://doi.org/10.1002/alz.053101" target="_blank">web</a>]
+      </li>
     <li>
         <strong>Stefan Lüdtke</strong>, Fernando Moya Rueda, Waqas Ahmed, Gernot A. Fink, Thomas Kirste. Human Activity Recognition using Attribute-Based Neural Networks and Context Information. 3rd International Workshop on Deep Learning for Human Activity Recognition 2021.
         [<a href="docs/dl4har-21.pdf" target="_blank">pdf</a>]
@@ -141,7 +157,7 @@ permalink:
           Guest Editor of <strong>Sensors</strong> Special Issue "Sensor-Based Activity Recognition and Interaction", 2020
       </li>
         <li>
-          Reviews: Computers in Biology and Medicine, Artificial Intelligence in Medicine, MDPI Entropy, Winter Simulation Conference 2018, iWOAR (2017, 2018, 2019, 2020)
+          Reviews: IJCAI (2022), AISTATS (2022), ECML PKDD (2022), Computers in Biology and Medicine, Artificial Intelligence in Medicine, MDPI Entropy, Winter Simulation Conference 2018, iWOAR (2017, 2018, 2019, 2020)
       </li>
    </ul>
 </div>
