@@ -54,7 +54,7 @@ permalink:
         [<a href="https://arxiv.org/abs/2202.00332" target="_blank">web</a>]
       </li>
       <li>
-       Chimezie Amaefule, <strong>Stefan Lüdtke</strong>, Thomas Kirste, Stefan Teipel. Gait changes among older adults during a virtual wayfinding task: The role of spatial disorientation and heart rate variability. <strong>Alzheimer's & Dementia </strong>strong> 2022.
+       Chimezie Amaefule, <strong>Stefan Lüdtke</strong>, Thomas Kirste, Stefan Teipel. Gait changes among older adults during a virtual wayfinding task: The role of spatial disorientation and heart rate variability. <strong>Alzheimer's & Dementia </strong> 2022.
         [<a href="https://doi.org/10.1002/alz.053101" target="_blank">web</a>]
       </li>
     <li>
