@@ -24,7 +24,7 @@ permalink:
    <h1 id="key publications">key publications</h1>
    <ul>
    	   <li>
-          <strong>Stefan Lüdtke</strong>, Marcel Gehrke, Tanya Braun, Ralf Möller, Thomas Kirste. Lifted Marginal Filtering for Asymmetric Models by Clustering-based Merging. Proceedings of the 24th European Conference on Artificial Intelligence (<strong>ECAI</strong>) 2020. [<a href="docs/ecai-20.pdf" target="_blank">pdf</a>]
+          <strong>Stefan Lüdtke</strong>, Christian Bartelt, Heiner Stuckenschmidt. Proceedings of the 31st International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>) 2022. accepted.
       </li>
    	  <li>
           <strong>Stefan Lüdtke</strong>, Max Schröder, Sebastian Bader, Kristian Kersting, Thomas Kirste. Lifted Filtering via Exchangeable Decomposition. Proceedings of the 27th International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>) 2018.
@@ -67,7 +67,9 @@ permalink:
       </li>
     <li>
         Iris Hochgraeber, Christiane Pinkert, Sumaiya Suravee, <strong>Stefan Lüdtke</strong>, Margareta Halek, Bernhard Holle. Wissenschaftsbasierte Ontologieentwicklung als Grundlage für KI-basierte Beratung von pflegenden Angehörigen. Einblicke in das Projekt eDEM-CONNECT. 20. deutscher Kongress für Versorgungsforschung 2021.
-      </li>
+    </li>
+        <strong>Stefan Lüdtke</strong>, Marcel Gehrke, Tanya Braun, Ralf Möller, Thomas Kirste. Lifted Marginal Filtering for Asymmetric Models by Clustering-based Merging. Proceedings of the 24th European Conference on Artificial Intelligence (<strong>ECAI</strong>) 2020. [<a href="docs/ecai-20.pdf" target="_blank">pdf</a>]
+    </li>
     <li>
         <strong>Stefan Lüdtke</strong>, Wiebke Hermann, Thomas Kirste, Heike Benes, Stefan Teipel. An Algorithm for Actigraphy-based Sleep/Wake Scoring: Comparison with Polysomnography. <strong>Clinical Neurophysiology</strong> 2020.
         [<a href="https://doi.org/10.1016/j.clinph.2020.10.019">web</a>]
