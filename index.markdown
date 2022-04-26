@@ -24,7 +24,7 @@ permalink:
    <h1 id="key publications">key publications</h1>
    <ul>
    	   <li>
-          <strong>Stefan Lüdtke</strong>, Christian Bartelt, Heiner Stuckenschmidt. Proceedings of the 31st International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>) 2022. accepted.
+          <strong>Stefan Lüdtke</strong>, Christian Bartelt, Heiner Stuckenschmidt. Exchangeability-Aware Sum-Product Networks. Proceedings of the 31st International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>) 2022. accepted.
       </li>
    	  <li>
           <strong>Stefan Lüdtke</strong>, Max Schröder, Sebastian Bader, Kristian Kersting, Thomas Kirste. Lifted Filtering via Exchangeable Decomposition. Proceedings of the 27th International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>) 2018.
