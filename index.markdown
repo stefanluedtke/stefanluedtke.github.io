@@ -42,6 +42,10 @@ permalink:
    <h1 id="more publications">more publications</h1>
    <ul>
        <li>
+        Stefan Teipel, Chimezie Amaefule, <strong>Stefan Lüdtke</strong>, Doreen Görß, Sofia Faraza, Sven Bruhn, Thomas Kirste. Prediction of Disorientation by Accelerometric and Gait Features in Young and Older Adults Navigating in a Virtually Enriched Environment.  <strong>Frontiers in Psychology</strong> 2022.
+        [<a href="https://doi.org/10.3389/fpsyg.2022.882446" target="_blank">web</a>]
+      </li>
+       <li>
         Sascha Marton, <strong>Stefan Lüdtke</strong>, Christian Bartelt. Explanations for neural networks by neural networks.  <strong>Applied Sciences</strong> 2022.
         [<a href="https://doi.org/10.3390/app12030980" target="_blank">web</a>]
       </li>
