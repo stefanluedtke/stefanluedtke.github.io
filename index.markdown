@@ -7,7 +7,7 @@ permalink:
 
 <div>
    <h1 id="about">about </h1>
-   <img src="docs/stefan.jpg" width="35%" style=" float:left; margin-right: 10px; margin-bottom: 0px">
+   <img src="docs/stefan2.jpg" width="50%" style=" float:left; margin-right: 10px; margin-bottom: 0px">
       <p>
         I am currently a postdoctoral researcher at the <a href="https://www.institute-for-enterprise-systems.de/"> Institute for Enterprise Systems</a>, University of Mannheim, in the research groups of <a href="https://www.uni-mannheim.de/dws/research/focus-groups/artificial-intelligence-prof-stuckenschmidt/"> Heiner Stuckenschmidt </a> and <a href="https://www.institute-for-enterprise-systems.de/index.php?id=49"> Christian Bartelt</a>.  
       </p>
