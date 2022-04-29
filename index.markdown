@@ -9,7 +9,7 @@ permalink:
    <h1 id="about">about </h1>
    <img src="docs/stefan.jpg" width="35%" style=" float:left; margin-right: 10px; margin-bottom: 0px">
       <p>
-        I am currently a postdoctoral researcher at the <a href="https://www.institute-for-enterprise-systems.de/"> Institute for Enterprise Systems </a>, University of Mannheim, in the research groups of <a href="https://www.uni-mannheim.de/dws/research/focus-groups/artificial-intelligence-prof-stuckenschmidt/"> Heiner Stuckenschmidt </a> and <a href="https://www.institute-for-enterprise-systems.de/index.php?id=49"> Christian Bartelt</a>.  
+        I am currently a postdoctoral researcher at the <a href="https://www.institute-for-enterprise-systems.de/"> Institute for Enterprise Systems</a>, University of Mannheim, in the research groups of <a href="https://www.uni-mannheim.de/dws/research/focus-groups/artificial-intelligence-prof-stuckenschmidt/"> Heiner Stuckenschmidt </a> and <a href="https://www.institute-for-enterprise-systems.de/index.php?id=49"> Christian Bartelt</a>.  
       </p>
       <p>
          I perform research at the intersection of data-driven and knowledge-based (logic, planning) artificial intelligence methods. My goal is to understand how high-level prior knowledge can be utilized in machine learning, allowing machines to reason about the world, even when training data is scarce.
@@ -72,6 +72,7 @@ permalink:
     <li>
         Iris Hochgraeber, Christiane Pinkert, Sumaiya Suravee, <strong>Stefan Lüdtke</strong>, Margareta Halek, Bernhard Holle. Wissenschaftsbasierte Ontologieentwicklung als Grundlage für KI-basierte Beratung von pflegenden Angehörigen. Einblicke in das Projekt eDEM-CONNECT. 20. deutscher Kongress für Versorgungsforschung 2021.
     </li>
+    <li>
         <strong>Stefan Lüdtke</strong>, Marcel Gehrke, Tanya Braun, Ralf Möller, Thomas Kirste. Lifted Marginal Filtering for Asymmetric Models by Clustering-based Merging. Proceedings of the 24th European Conference on Artificial Intelligence (<strong>ECAI</strong>) 2020. [<a href="docs/ecai-20.pdf" target="_blank">pdf</a>]
     </li>
     <li>
