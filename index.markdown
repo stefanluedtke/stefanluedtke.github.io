@@ -9,7 +9,7 @@ permalink:
    <h1 id="about">about </h1>
    <img src="docs/stefan2.jpg" width="42%" style=" float:left; margin-right: 10px; margin-bottom: 0px">
       <p>
-        I am currently a postdoctoral researcher at the <a href="https://www.institute-for-enterprise-systems.de/"> Institute for Enterprise Systems</a>, University of Mannheim, in the research groups of <a href="https://www.uni-mannheim.de/dws/research/focus-groups/artificial-intelligence-prof-stuckenschmidt/"> Heiner Stuckenschmidt </a> and <a href="https://www.institute-for-enterprise-systems.de/index.php?id=49"> Christian Bartelt</a>.  
+        I am currently a postdoctoral researcher at the <a href="https://www.institute-for-enterprise-systems.de/"> Institute for Enterprise Systems</a>, University of Mannheim, in the research groups of <a href="https://www.uni-mannheim.de/dws/research/focus-groups/artificial-intelligence-prof-stuckenschmidt/"> Heiner Stuckenschmidt </a> and <a href="https://www.uni-mannheim.de/ines/ueber-uns/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter/"> Christian Bartelt</a>.  
       </p>
       <p>
         I perform research at the intersection of data-driven and knowledge-based artificial intelligence. My goal is to make AI methods robust and data-efficient, by understanding how prior domain knowledge can be leveraged in machine learning. Additionally, I am working on machine learning methods for heterogeneous and relational data, which are ubiquitous in real-world applications.
