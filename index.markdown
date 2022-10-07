@@ -23,7 +23,7 @@ permalink:
    <h1 id="key publications">key publications</h1>
    <ul>
    	   <li>
-          <strong>Stefan Lüdtke</strong>, Christian Bartelt, Heiner Stuckenschmidt. Exchangeability-Aware Sum-Product Networks. Proceedings of the 31st International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>) 2022. accepted.
+          <strong>Stefan Lüdtke</strong>, Christian Bartelt, Heiner Stuckenschmidt. Exchangeability-Aware Sum-Product Networks. Proceedings of the 31st International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>) 2022. [<a href="https://doi.org/10.24963/ijcai.2022/674" target="_blank">web</a>]
       </li>
    	  <li>
           <strong>Stefan Lüdtke</strong>, Max Schröder, Sebastian Bader, Kristian Kersting, Thomas Kirste. Lifted Filtering via Exchangeable Decomposition. Proceedings of the 27th International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>) 2018.
@@ -40,6 +40,22 @@ permalink:
 <hr>
    <h1 id="more publications">more publications</h1>
    <ul>
+    <li>
+      <strong>Stefan Lüdtke</strong>, Christian Bartelt, Heiner Stuckenschmidt. Outlier Explanation via Sum-Product Networks. arXiv preprint arXiv:2207.08414. 2022.
+      [<a href="https://arxiv.org/abs/2207.08414" target="_blank">web</a>]
+    </li>
+     <li>
+      Maximilian Popko, Sebastian Bader, <strong> Stefan Lüdtke </strong>, Thomas Kirste. Discovering Behavioral Predispositions in Data to Improve Human Activity Recognition. Proceedings of the 7th International Workshop on Sensor-Based Activity Recognition and Artificial Intelligence (<strong>iWOAR</strong>) 2022.
+      [<a href="https://arxiv.org/abs/2207.08816" target="_blank">web</a>]
+     </li>
+      <li>
+        Sascha Marton, <strong> Stefan Lüdtke </strong>, Christian Bartelt, Andrej Tschalzev, Heiner Stuckenschmidt. Explaining Neural Networks without Access to Training Data. arXiv preprint arXiv:2206.04891. 2022. 
+        [<a href="https://arxiv.org/abs/2206.04891" target="_blank">web</a>]
+      </li>
+        <li>
+          Nils Wilken, Lea Cohausz, Johannes Schaum, <strong>Stefan Lüdtke</strong>, Christian Bartelt, Heiner Stuckenschmidt. Leveraging planning landmarks for hybrid online goal recognition. Scheduling and Planning Applications woRKshop (<strong>spark</strong>) 2022.
+        [<a href="https://icaps22.icaps-conference.org/workshops/SPARK/papers/spark2022_paper_6.pdf" target="_blank">web</a>]
+      </li>
        <li>
         Stefan Teipel, Chimezie Amaefule, <strong>Stefan Lüdtke</strong>, Doreen Görß, Sofia Faraza, Sven Bruhn, Thomas Kirste. Prediction of Disorientation by Accelerometric and Gait Features in Young and Older Adults Navigating in a Virtually Enriched Environment.  <strong>Frontiers in Psychology</strong> 2022.
         [<a href="https://doi.org/10.3389/fpsyg.2022.882446" target="_blank">web</a>]
