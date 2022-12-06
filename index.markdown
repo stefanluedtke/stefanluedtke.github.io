@@ -41,8 +41,12 @@ permalink:
    <h1 id="more publications">more publications</h1>
    <ul>
     <li>
-      Michael Oesterle, Christian Bartelt, <strong>Stefan Lüdtke</strong>, Heiner Stuckenschmidt. Self-Learning Governance of Black-Box Multi-Agent Systems. International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (<strong>COINE</strong>) 2022.
-      [<a href="https://coin-workshop.github.io/coine-2022-auckland/papers/paper-2.pdf" target="_blank">web</a>]
+      Chimezie O. Amaefule, <strong>Stefan Lüdtke</strong>, Anne Klostermann, Charlotte A. Hinz, Isabell Kampa, Thomas Kirste, Stefan Teipel. At Crossroads in a Virtual City: Effect of Spatial Disorientation on Gait Variability and Psychophysiological Response among Healthy Older Adults. <strong>Gerontology</strong> 2022.
+      [<a href="https://doi.org/10.1159/000527503" target="_blank">web</a>]
+    </li>
+    <li>
+      Michael Oesterle, Christian Bartelt, <strong>Stefan Lüdtke</strong>, Heiner Stuckenschmidt. Self-Learning Governance of Black-Box Multi-Agent Systems. Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems XV (<strong>COINE</strong>) 2022.
+      [<a href="https://doi.org/10.1007/978-3-031-20845-4_5" target="_blank">web</a>]
     </li>
     <li>
       <strong>Stefan Lüdtke</strong>, Christian Bartelt, Heiner Stuckenschmidt. Outlier Explanation via Sum-Product Networks. arXiv preprint arXiv:2207.08414. 2022.
