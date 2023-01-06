@@ -54,7 +54,8 @@ permalink:
     </li>
      <li>
       Maximilian Popko, Sebastian Bader, <strong> Stefan Lüdtke </strong>, Thomas Kirste. Discovering Behavioral Predispositions in Data to Improve Human Activity Recognition. Proceedings of the 7th International Workshop on Sensor-Based Activity Recognition and Artificial Intelligence (<strong>iWOAR</strong>) 2022.
-      [<a href="https://arxiv.org/abs/2207.08816" target="_blank">web</a>]
+      [<a href="https://doi.org/10.1145/3558884.3558892" target="_blank">ACM</a>] 
+      [<a href="https://arxiv.org/abs/2207.08816" target="_blank">arXiv</a>]
      </li>
       <li>
         Sascha Marton, <strong> Stefan Lüdtke </strong>, Christian Bartelt, Andrej Tschalzev, Heiner Stuckenschmidt. Explaining Neural Networks without Access to Training Data. arXiv preprint arXiv:2206.04891. 2022. 
