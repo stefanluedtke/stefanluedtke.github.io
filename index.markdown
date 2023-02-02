@@ -9,7 +9,7 @@ permalink:
    <h1 id="about">about </h1>
    <img src="docs/stefan2.jpg" width="42%" style=" float:left; margin-right: 10px; margin-bottom: 0px">
       <p>
-        I am currently a postdoctoral researcher at the <a href="https://www.institute-for-enterprise-systems.de/"> Institute for Enterprise Systems</a>, University of Mannheim, in the research groups of <a href="https://www.uni-mannheim.de/dws/research/focus-groups/artificial-intelligence-prof-stuckenschmidt/"> Heiner Stuckenschmidt </a> and <a href="https://www.uni-mannheim.de/ines/ueber-uns/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter/"> Christian Bartelt</a>.  
+        I am currently a junior research group leader at the <a href="https://scads.ai/"> Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) </a> at the University of Leipzg.  
       </p>
       <p>
         I perform research at the intersection of data-driven and knowledge-based artificial intelligence. My goal is to make AI methods robust and data-efficient, by understanding how prior domain knowledge can be leveraged in machine learning. Additionally, I am working on machine learning methods for heterogeneous and relational data, which are ubiquitous in real-world applications.
@@ -40,6 +40,14 @@ permalink:
 <hr>
    <h1 id="more publications">more publications</h1>
    <ul>
+    <li>
+      Nils Wilken, Lea Cohausz, Johannes Schaum, <strong>Stefan Lüdtke</strong>, Christian Bartelt, Heiner Stuckenschmidt. Leveraging Planning Landmarks for Hybrid Online Goal Recognition. arXiv preprint arXiv:2301.10571. 2023.
+      [<a href="https://arxiv.org/abs/2301.10571">web</a>]
+    </li>
+    <li>
+      Nils Wilken, Lea Cohausz, Johannes Schaum, <strong>Stefan Lüdtke</strong>, Heiner Stuckenschmidt. Investigating the Combination of Planning-Based and Data-Driven Methods for Goal Recognition. arXiv preprint arXiv:2301.05608. 2023.
+      [<a href="https://arxiv.org/abs/2301.05608">web</a>]
+    </li>
     <li>
       Chimezie O. Amaefule, <strong>Stefan Lüdtke</strong>, Anne Klostermann, Charlotte A. Hinz, Isabell Kampa, Thomas Kirste, Stefan Teipel. At Crossroads in a Virtual City: Effect of Spatial Disorientation on Gait Variability and Psychophysiological Response among Healthy Older Adults. <strong>Gerontology</strong> 2022.
       [<a href="https://doi.org/10.1159/000527503" target="_blank">web</a>]
