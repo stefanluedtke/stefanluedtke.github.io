@@ -9,7 +9,7 @@ permalink:
    <h1 id="about">about </h1>
    <img src="docs/stefan2.jpg" width="42%" style=" float:left; margin-right: 10px; margin-bottom: 0px">
       <p>
-        I am currently a junior research group leader at the <a href="https://scads.ai/"> Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) </a> at the University of Leipzg.  
+        I am currently a junior research group leader at the <a href="https://scads.ai/"> Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) </a> at the University of Leipzig.  
       </p>
       <p>
         I perform research at the intersection of data-driven and knowledge-based artificial intelligence. My goal is to make AI methods robust and data-efficient, by understanding how prior domain knowledge can be leveraged in machine learning. Additionally, I am working on machine learning methods for heterogeneous and relational data, which are ubiquitous in real-world applications.
