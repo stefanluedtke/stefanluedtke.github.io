@@ -17,7 +17,7 @@ permalink:
         More specifically, I have been working on computational state-space models (symbolic specifications of dynamic systems), lifted probabilistic inference algorithms for such systems, and the combination of symbolic domain models and neural networks. An important application domain of those methods is human activity recognition. In that regard, I have been involved in applied and interdisciplinary research projects concerned with the sensor-based assessment and assistance for people with cognitive impairment (e.g. dementia) and their caregivers.
       </p>
       <p>
-      You can find infos on the AI course I give at Babes-Bolyai-University [<a href="teaching" target="_blank">here</a>]
+      You can find infos on the AI course I give at Babes-Bolyai-University <a href="teaching" target="_blank">here</a>
       </p>
 </div>
 

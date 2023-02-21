@@ -21,7 +21,7 @@ permalink:
    <ul>
    	   <li> <a href="https://stefanluedtke.github.io/slides/01-intro.pdf" target="_blank">01. Intro</a>
        </li>
-       <li> <a href="https://stefanluedtke.github.io/slides/01-agents.pdf" target="_blank">01. Intelligente Agenten</a>
+       <li> <a href="https://stefanluedtke.github.io/slides/02-agents.pdf" target="_blank">02. Intelligente Agenten</a>
        </li>
    </ul>
 </div>
