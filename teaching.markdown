@@ -28,5 +28,9 @@ permalink:
        </li>
        <li> <a href="https://stefanluedtke.github.io/slides/03-probsearch.pdf" target="_blank">03. Problemlösung durch Suchen</a>
        </li>
+       <li> <a href="https://stefanluedtke.github.io/slides/04-csps-complete.pdf" target="_blank">04. Constraint Satisfaction Problems</a>
+       </li>
+       <li> <a href="https://stefanluedtke.github.io/slides/05-game-playing-complete.pdf" target="_blank">05. Games</a>
+       </li>
    </ul>
 </div>
