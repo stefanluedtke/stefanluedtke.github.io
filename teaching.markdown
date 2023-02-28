@@ -26,5 +26,7 @@ permalink:
        </li>
        <li> <a href="https://stefanluedtke.github.io/slides/02-agents.pdf" target="_blank">02. Intelligente Agenten</a>
        </li>
+       <li> <a href="https://stefanluedtke.github.io/slides/03-probsearch.pdf" target="_blank">03. Problemlösung durch Suchen</a>
+       </li>
    </ul>
 </div>
