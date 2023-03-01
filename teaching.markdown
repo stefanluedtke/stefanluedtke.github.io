@@ -32,5 +32,9 @@ permalink:
        </li>
        <li> <a href="https://stefanluedtke.github.io/slides/05-game-playing-complete.pdf" target="_blank">05. Games</a>
        </li>
+       <li> <a href="https://stefanluedtke.github.io/slides/06-planning.pdf" target="_blank">06. Planung</a>
+       </li>
+       <li> <a href="https://stefanluedtke.github.io/slides/07-uncertainty.pdf" target="_blank">07. Wahrscheinlichkeitsrechnung</a>
+       </li>
    </ul>
 </div>
