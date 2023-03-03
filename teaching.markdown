@@ -36,5 +36,9 @@ permalink:
        </li>
        <li> <a href="https://stefanluedtke.github.io/slides/07-uncertainty.pdf" target="_blank">07. Wahrscheinlichkeitsrechnung</a>
        </li>
+       <li> <a href="https://stefanluedtke.github.io/slides/08-bayesian-networks-complete.pdf" target="_blank">08. Bayes'sche Netze</a>
+       </li>
+       <li> <a href="https://stefanluedtke.github.io/slides/08b-probabilistic-inference-complete.pdf" target="_blank">09. Probabilistische Inferenz</a>
+       </li>
    </ul>
 </div>
