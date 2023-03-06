@@ -45,4 +45,6 @@ permalink:
        <li> <a href="https://stefanluedtke.github.io/slides/10-machine-learning-complete.pdf" target="_blank">11. Machine Learning</a>
        </li>
    </ul>
+   <h1 id="vorlesungsfolien">Projekt</h1>
+   <a href="https://stefanluedtke.github.io/slides/Projekt.pdf" target="_blank">Informationen zum Projekt</a>
 </div>
