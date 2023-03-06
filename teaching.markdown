@@ -42,5 +42,7 @@ permalink:
        </li>
        <li> <a href="https://stefanluedtke.github.io/slides/09-hmms-complete.pdf" target="_blank">10. Hidden Markov Models</a>
        </li>
+       <li> <a href="https://stefanluedtke.github.io/slides/10-machine-learning-complete.pdf" target="_blank">11. Machine Learning</a>
+       </li>
    </ul>
 </div>
