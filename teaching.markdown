@@ -40,5 +40,7 @@ permalink:
        </li>
        <li> <a href="https://stefanluedtke.github.io/slides/08b-probabilistic-inference-complete.pdf" target="_blank">09. Probabilistische Inferenz</a>
        </li>
+       <li> <a href="https://stefanluedtke.github.io/slides/09-hmms-complete.pdf" target="_blank">10. Hidden Markov Models</a>
+       </li>
    </ul>
 </div>
