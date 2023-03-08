@@ -44,6 +44,8 @@ permalink:
        </li>
        <li> <a href="https://stefanluedtke.github.io/slides/10-machine-learning-complete.pdf" target="_blank">11. Machine Learning</a>
        </li>
+       <li> <a href="https://stefanluedtke.github.io/slides/11-mdps-complete.pdf" target="_blank">12. Markov Decision Processes</a>
+       </li>
    </ul>
    <h1 id="projekt">projekt</h1>
    <a href="https://stefanluedtke.github.io/slides/Projekt.pdf" target="_blank">Informationen zum Projekt</a>
