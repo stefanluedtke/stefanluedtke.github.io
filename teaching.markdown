@@ -46,6 +46,8 @@ permalink:
        </li>
        <li> <a href="https://stefanluedtke.github.io/slides/11-mdps-complete.pdf" target="_blank">12. Markov Decision Processes</a>
        </li>
+       <li> <a href="https://stefanluedtke.github.io/slides/12-qlearning-complete.pdf" target="_blank">12. Reinforcement Learning</a>
+       </li>
    </ul>
    <h1 id="projekt">projekt</h1>
    <a href="https://stefanluedtke.github.io/slides/Projekt.pdf" target="_blank">Informationen zum Projekt</a>
