@@ -13,9 +13,8 @@ permalink:
       <p>
         Die Übungen findet ihr hier:  [<a href="https://mybinder.org/v2/gh/stefanluedtke/AI-Exercises/HEAD" target="_blank">klick</a>]
       </p>
-       <p>
-        Die Lehrveranstaltung findet zu folgenden Zeiten statt: 9:00 - 10:30, 10:45 - 12:00, 13:00 - 14:30, (14:45 - 16:00)
-      </p>
+      <h1 id="foo">prüfungsanmeldung</h1>
+      <strong> Sie müssen sich bis 13.03. für die Prüfung verbindlich anmelden </strong>, über folgenden Link: [<a href="https://forms.gle/xTbz4PaRd79weNyC8" target="_blank">klick</a>]
 </div>
 
 <div style= "clear: both">
