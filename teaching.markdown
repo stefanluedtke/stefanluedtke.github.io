@@ -45,7 +45,11 @@ permalink:
        </li>
        <li> <a href="https://stefanluedtke.github.io/slides/11-mdps-complete.pdf" target="_blank">12. Markov Decision Processes</a>
        </li>
-       <li> <a href="https://stefanluedtke.github.io/slides/12-qlearning-complete.pdf" target="_blank">12. Reinforcement Learning</a>
+       <li> <a href="https://stefanluedtke.github.io/slides/12-qlearning-complete.pdf" target="_blank">13. Reinforcement Learning</a>
+       </li>
+       <li> <a href="https://stefanluedtke.github.io/slides/13-game-theory-complete.pdf" target="_blank">14. Game Theory</a>
+       </li>
+       <li> <a href="https://stefanluedtke.github.io/slides/14-ai-safety-complete.pdf" target="_blank">15. AI Safety</a>
        </li>
    </ul>
    <h1 id="projekt">projekt</h1>
