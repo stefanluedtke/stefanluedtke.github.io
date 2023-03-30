@@ -25,16 +25,15 @@ permalink:
 <hr>
    <h1 id="key publications">key publications</h1>
    <ul>
+    <li>
+          <strong>Stefan Lüdtke</strong>, Christian Bartelt, Heiner Stuckenschmidt. Outlying Aspect Mining via Sum-Product Networks. Proceedings of the 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining (<strong>PAKDD</strong>) 2023.
+      </li>
    	   <li>
           <strong>Stefan Lüdtke</strong>, Christian Bartelt, Heiner Stuckenschmidt. Exchangeability-Aware Sum-Product Networks. Proceedings of the 31st International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>) 2022. [<a href="https://doi.org/10.24963/ijcai.2022/674" target="_blank">web</a>]
       </li>
    	  <li>
           <strong>Stefan Lüdtke</strong>, Max Schröder, Sebastian Bader, Kristian Kersting, Thomas Kirste. Lifted Filtering via Exchangeable Decomposition. Proceedings of the 27th International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>) 2018.
          [<a href="docs/ijcai-18.pdf" target="_blank">pdf</a>]
-      </li>
-        <li>
-          <strong>Stefan Lüdtke</strong>, Max Schröder, Frank Krüger, Sebastian Bader, Thomas Kirste. State-Space Abstractions for Probabilistic Inference: A Systematic Review. Journal of Artificial Intelligence Research (<strong>JAIR</strong>) 2018.
-         [<a href="docs/jair-18.pdf" target="_blank">pdf</a>]
       </li>
    </ul>
 </div>
@@ -43,6 +42,9 @@ permalink:
 <hr>
    <h1 id="more publications">more publications</h1>
    <ul>
+    <li>
+      Christian Schreckenberger, Yi He, <strong>Stefan Lüdtke</strong>, Christian Bartelt, Heiner Stuckenschmidt. Online random feature forests for learning in varying feature spaces. Proceedings of the 37th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>) 2023.
+    </li>
     <li>
       Nils Wilken, Lea Cohausz, Johannes Schaum, <strong>Stefan Lüdtke</strong>, Christian Bartelt, Heiner Stuckenschmidt. Leveraging Planning Landmarks for Hybrid Online Goal Recognition. arXiv preprint arXiv:2301.10571. 2023.
       [<a href="https://arxiv.org/abs/2301.10571">web</a>]
@@ -156,6 +158,10 @@ permalink:
       </li>
       <li>
           Chimezie Amaefule, <strong>Stefan Lüdtke</strong>, Sarah Weschke, Christoph Berger, Sven Bruhn, Rainer Bader, Thomas Kirste, Stefan Teipel. Assessing Gait and Physiological Characteristics of Induced Disorientation in a VR Environment - The journey so far. Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde (<strong>DGPPN</strong>) Kongress 2019.
+      </li>
+       <li>
+          <strong>Stefan Lüdtke</strong>, Max Schröder, Frank Krüger, Sebastian Bader, Thomas Kirste. State-Space Abstractions for Probabilistic Inference: A Systematic Review. Journal of Artificial Intelligence Research (<strong>JAIR</strong>) 2018.
+         [<a href="docs/jair-18.pdf" target="_blank">pdf</a>]
       </li>
       <li>
           <strong>Stefan Lüdtke</strong>, Max Schröder, Thomas Kirste. Approximate Probabilistic Parallel Multiset Rewriting using MCMC. <strong>KI</strong>: Advances in Artificial Intelligence 2018.
