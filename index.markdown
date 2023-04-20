@@ -54,7 +54,7 @@ permalink:
       [<a href="https://arxiv.org/abs/2301.05608">web</a>]
     </li>
     <li>
-      Chimezie O. Amaefule, <strong>Stefan Lüdtke</strong>, Anne Klostermann, Charlotte A. Hinz, Isabell Kampa, Thomas Kirste, Stefan Teipel. At Crossroads in a Virtual City: Effect of Spatial Disorientation on Gait Variability and Psychophysiological Response among Healthy Older Adults. <strong>Gerontology</strong> 2022.
+      Chimezie O. Amaefule, <strong>Stefan Lüdtke</strong>, Anne Klostermann, Charlotte A. Hinz, Isabell Kampa, Thomas Kirste, Stefan Teipel. At Crossroads in a Virtual City: Effect of Spatial Disorientation on Gait Variability and Psychophysiological Response among Healthy Older Adults. <strong>Gerontology</strong> 2023.
       [<a href="https://doi.org/10.1159/000527503" target="_blank">web</a>]
     </li>
     <li>
